@@ -1,0 +1,265 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;  
+}
+header{
+    width: 100%;
+    height: 94px;
+    background-color: black;
+    /* position: absolute; */
+}
+h1{
+    width: 70px;
+    height: 70px;
+    background-image: url(../icon/music-note.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: absolute;
+    margin: 12px auto 12px 100px;
+}
+h1 a{
+    display: block;
+    width: 70px;
+    height: 70px;
+    
+}
+.nav1 a{
+    color: #ffffff;
+    font-size: 18px;
+
+}
+.nav1 li{
+    margin: 20px;
+    float: left;
+
+}
+nav{
+    padding-left: 338px;
+    padding-top: 26px;
+}
+.satauri{
+    padding-top: 50px;
+    padding-left: 110px;
+    padding-bottom: 50px;
+}
+.musicbox{
+    width: 300px;
+    height: 270px;
+    /* background-color: blue; */
+    float: left;
+    margin: 0 5% 0 5%; 
+}
+.shtrixi{
+    border: 1px #000000 solid;
+    width: 300px;
+    height: 244px;
+    
+}
+.guli{
+    background-image: url(../icon/like.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 50px;
+    height: 50px;
+    margin-left: 248px;
+    margin-top: -4px;
+}
+.container div{
+    background-image: url(../icon/sound.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 65px;
+    height: 65px;
+    float: left;
+    margin-top: 10px;
+}
+.shtrixi1, .shtrixi3, .shtrixi4{
+    margin-left: 8px;
+}
+.shtrixi2{
+    margin-left: 10px;
+}
+.track{
+    clear: both;
+    padding-top: 24px;
+    padding-left: 12px;
+}
+.musicbox a{
+    color: #000000;
+    clear: both;
+    display: block;
+    padding-top: 8px;
+}
+.artist{
+    padding-top: 12px;
+    padding-left: 12px;
+}
+.latest{
+    clear: both;
+    padding-top: 22px;
+    padding-left: 110px;
+}
+.articlebox2{
+    margin-top: 22px;
+}
+.articlebox3{
+margin-top: 50px;
+}
+.articlebox4{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+footer{
+    height: 354px;
+    width: 100%;
+    background-color: #000000;
+
+}
+.articlebox1, .articlebox2, .articlebox3, .articlebox4{
+    width: 100%;
+    height: 270px;
+}
+.qveda a{
+    color: #ffffff;
+}
+.qveda{
+    text-align: center;
+    margin-right: 440px;
+}
+.bolo{
+    background-image: url(../icon/music-note.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 150px;
+    height: 150px;
+    margin-left: 550px;
+}
+.p2{
+    color: #ffffff;
+    margin-top: 50px;
+    margin-bottom: 15px;
+    margin-left: 560px;
+}
+.icocon{
+    width: 50px;
+    height: 100px;
+    position: fixed;
+    top: 214px;
+    right: 0px;
+}
+.fb{
+background-image: url(../icon/fb.png);
+
+}
+.ins{
+    background-image: url(../icon/instagram.png);
+}
+.fb, .ins{
+    width: 50px;
+    height: 50px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.fb a, .ins a{
+    display: block;
+    width: 50px;
+    height: 50px;
+}
+.songbox{
+    width: 280px;
+    height: 361px;
+    /* background-color: blue; */
+    margin-left: 110px;
+    margin-top: 50px;
+    float: left;
+}
+.songbox p{
+    padding: 1%;
+    padding-top: 10px;
+}
+.songbox h3{
+    margin-bottom: 15px;
+}
+.shtrixi11{
+    background-image: url(../icon/sound.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 65px;
+    height: 65px;
+}
+.shtrixi22{
+    background-image: url(../icon/sound.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 65px;
+    height: 65px;
+}
+.shtrixi33{
+    background-image: url(../icon/sound.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 65px;
+    height: 65px;
+}
+.shtrixi44{
+    background-image: url(../icon/sound.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 65px;
+    height: 65px;
+}
+
+
+.shtrixcon div{
+    float: left;
+    margin-top: 550px;
+    margin-left: 10px;
+    width: 65px;
+    height: 65px;
+}
+
+.songboxcon1{
+    float: left;
+    
+}
+
+.songbox1{
+    width: 280px;
+    height: 361px;
+    /* background-color: blue; */
+    margin-left: 30px;
+    margin-top: 50px;
+    float: left;
+}
+
+.songbox1 p{
+    padding: 1%;
+    padding-top: 10px;
+}
+
+.shtrixcon1 div{
+    float: left;
+    margin-top: 50px;
+    margin-left: 250px;
+    width: 65px;
+    height: 65px;
+    
+    
+}
+
+.bolosarti{
+    margin-top: 1250px;
+    margin-left: 550px;
+    margin-bottom: 100px;
+}
+
+
+
+
+footer{
+    clear: both;
+}
+
